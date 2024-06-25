@@ -22,20 +22,10 @@ This is an official pytorch implementation of HR-xNet: A Novel High-Resolution N
 We use Pytorch == 1.7.5 on ubuntu18.04 and 3 NVIDIA GeForce 2080Ti to train our models.
 
 ## Dataset
-### MPII
-Download MPII dataset and follows the file structure:
-```
-LDNet_Code
-         |--- data
-                 |--- mpii
-                         |--- annot
-                         |--- images
-```
-
 ### COCO
 Download COCO dataset and follows the file structure:
 ```
-LDNet_Code
+HR-xNet
          |--- data
                  |--- coco
                          |--- annotations
